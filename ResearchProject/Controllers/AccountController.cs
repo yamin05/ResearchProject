@@ -17,7 +17,7 @@ namespace ResearchProject.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
-
+        //yguhjg
         public AccountController()
         {
         }
